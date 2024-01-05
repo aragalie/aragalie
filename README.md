@@ -1,17 +1,19 @@
 <h1 align="center">Heya 👋 Alex here, thanks for stopping by 🙋‍♂️</h1>
+<h2 align="center">I'm passionate about building software at scale to improve people's lives</h2>
 
-<h2 align="left">About me</h2>
-I'm passionate about building software at scale to improve people's lives.
+<h3 align="left">About me</h3>
 
 Former tech Founder and CTO, I have an extensive track record of successfully leading engineering and product teams.
 
-Proven experience in highly scalable Software Development and Systems Architecture. Focused primarily on backend and systems programming, preferably using Rust 🦀
+Proven experience in highly scalable Software Development and Systems Architecture. 
+
+Focused primarily on backend and systems programming, preferably using Rust 🦀
 
 Generally I tend to be language-agnostic, though I really prefer daily work in languages that are statically-typed, memory safe and with developed functional programming features. 
 
 I believe that great software engineering happens when the right tool for the job is used, with mindful application and focusing on the main thing that matters irrespective of anything else: that the software being created is adding significant value in a responsible way to its users.
 
-<h2 align="left">Freelance/Contracting</h2>
+<h3 align="left">Freelance/Contracting</h3>
 
 Help your engineering team create more value for users with high throughput and low latency software development + systems architecture.
 
@@ -29,7 +31,6 @@ Programming languages I'm very comfortable working with:
 
 ----
 Personal blog and book reviews: https://aragalie.com
-
 
 ----
 
