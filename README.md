@@ -9,13 +9,13 @@ Proven experience in highly scalable Software Development and Systems Architectu
 
 Focused primarily on backend and systems programming, preferably using Rust 🦀
 
-Generally I tend to be language-agnostic, though I really prefer daily work in languages that are statically-typed, memory safe and with developed functional programming features. 
+I tend to be language-agnostic, though I really prefer daily work in languages that are statically-typed, memory safe and with developed functional programming features. 
 
-I believe that great software engineering happens when the right tool for the job is used, with mindful application and focusing on the main thing that matters irrespective of anything else: that the software being created is adding significant value in a responsible way to its users.
+My belief is that great software engineering happens when the right tool for the job is used, with mindful application and focusing on the main thing that matters irrespective of anything else: that the software being created is adding significant value in a responsible way to its users.
 
 <h3 align="left">Freelance/Contracting</h3>
 
-Help your engineering team create more value for users with high throughput and low latency software development + systems architecture.
+Generally my focus is on helping your engineering team create more value for users with high throughput and low latency software development + systems architecture.
 
 I can offer extensive experience in developing scalable backend architectures on both GCP and AWS, using serverless infrastructure and IaC tooling such at SST (sst.dev), with persistent data storage on both NoSQL databases like DynamoDb or Firebase as well as SQL-based such as PostgreSQL. 
 
