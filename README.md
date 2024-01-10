@@ -29,6 +29,8 @@ Programming languages I'm very comfortable working with:
 - Python 🐍
 - TypeScript, JavaScript
 
+Currently exploring [Odin](https://odin-lang.org) and [Zig](https://ziglang.org).
+
 ----
 Personal blog and book reviews: https://aragalie.com
 
