@@ -20,6 +20,7 @@ Generally my focus is on helping your engineering team create more value for use
 Extensive experience in developing scalable backend architectures on both GCP and AWS, using serverless infrastructure and IaC tooling such at SST (sst.dev), with persistent data storage on both NoSQL databases like DynamoDb or Firebase as well as SQL-based such as PostgreSQL. 
 
 Backend-wise I've built codebases at scale with Node.js (Typescript) and Rust 🦀 
+
 On the frontend I have experience with React (Typescript) as well as Vue and pure HTML+CSS.
 
 I very much prefer system architecture and backend development, but can handle myself - and directly or indirectly manage teams of developers - on the full stack if needed. 
