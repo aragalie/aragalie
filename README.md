@@ -25,7 +25,7 @@ On the frontend I have experience with React (Typescript) as well as Vue and pur
 
 I very much prefer system architecture and backend development, but can handle the full stack if needed, including advanced DevOps such as CI/CD, cloud provider setup and configuration as well as complex networking.  
 
-Fully remote only, I'm based in Zurich, Switzerland.
+Fully remote only, I'm based in Zurich🇨🇭 and working via B2B contract.
 
 ----
 Programming languages I'm very comfortable working with: 
