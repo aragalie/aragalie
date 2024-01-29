@@ -23,7 +23,7 @@ Backend-wise I've built codebases at scale with Node.js (Typescript) and Rust ðŸ
 
 On the frontend I have experience with React (Typescript) as well as Vue and pure HTML+CSS.
 
-I very much prefer system architecture and backend development, but can handle the full stack if needed, including advanced DevOps such as CI/CD, cloud provider setup and configuration, networking.
+I very much prefer system architecture and backend development, but can handle the full stack if needed, including advanced DevOps such as CI/CD, cloud provider setup and configuration as well as complex networking.  
 
 Fully remote only, I'm based in Zurich, Switzerland.
 
