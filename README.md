@@ -27,7 +27,7 @@ I've also done in the past Data Science and ML/AI using Python, JupyterNB, PyTor
 
 I very much prefer system architecture and backend development, but can handle the full stack if needed, including advanced DevOps such as CI/CD, cloud provider setup and configuration as well as complex networking.  
 
-Fully remote only, I'm based in Zurich🇨🇭 and working via B2B contract.
+Based in Zurich 🇨🇭 and working via a B2B setup, fully remote only; please take note of this aspect if you're reaching out with an opportunity.
 
 ----
 Programming languages I'm very comfortable working with: 
