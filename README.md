@@ -17,7 +17,7 @@ My belief is that great software engineering happens when the right tool for the
 
 Generally my focus is on helping your engineering team create more value for users with high throughput and low latency software development + systems architecture.
 
-Extensive experience in developing scalable backend architectures on both GCP and AWS, using serverless infrastructure and IaC tooling such at SST (sst.dev), with persistent data storage on both NoSQL databases like DynamoDb or Firebase as well as SQL-based such as PostgreSQL. 
+Extensive experience in developing scalable backend architectures on both GCP and AWS, using serverless infrastructure and IaC tooling such as Terraform or SST (sst.dev), with persistent data storage on both NoSQL databases like DynamoDb or Firebase as well as SQL-based such as PostgreSQL. 
 
 Backend-wise I've built codebases at scale with Node.js (Typescript) and Rust 🦀 
 
