@@ -29,7 +29,7 @@ I very much prefer system architecture and backend development, but can handle t
 
 Based in Zurich 🇨🇭 and working via a B2B setup, fully remote only; please take note of this aspect if you're reaching out with an opportunity.
 
-You can reach me via email [at this address](mailto:2127095+aragalie@users.noreply.github.com).
+You can reach me via email [at this address](mailto:alex.ragalie@gmail.com).
 
 ----
 Programming languages I'm very comfortable working with: 
