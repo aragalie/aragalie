@@ -23,6 +23,8 @@ Backend-wise I've built codebases at scale with Node.js (Typescript) and Rust �
 
 On the frontend I have experience with React (Typescript) as well as Vue and pure HTML+CSS.
 
+I've also done in the past Data Science and ML/AI using Python, JupyterNB, PyTorch and Tensorflow; used, configured and managed both on-premise GPU setups, as well as cloud-based infra and big data storage tooling like BigQuery. 
+
 I very much prefer system architecture and backend development, but can handle the full stack if needed, including advanced DevOps such as CI/CD, cloud provider setup and configuration as well as complex networking.  
 
 Fully remote only, I'm based in Zurich🇨🇭 and working via B2B contract.
