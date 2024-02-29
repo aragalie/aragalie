@@ -19,13 +19,13 @@ Generally my focus is on helping your engineering team create more value for use
 
 Extensive experience in developing scalable backend architectures on both GCP and AWS, using serverless infrastructure and IaC tooling such as Terraform or SST (sst.dev), with persistent data storage on both NoSQL databases like DynamoDb or Firebase as well as SQL-based such as PostgreSQL. 
 
-Backend-wise I've built codebases at scale with Node.js (Typescript) and Rust 🦀 
+Backend-wise I've built codebases at scale with Node.js (Typescript) and Rust 🦀 in web2 as well as web3 (previous startup). 
 
 On the frontend I have experience with React (Typescript) as well as Vue and pure HTML+CSS.
 
 I've also done in the past Data Science and ML/AI using Python, JupyterNB, PyTorch and Tensorflow; used, configured and managed both on-premise GPU setups, as well as cloud-based infra and big data storage tooling like BigQuery. 
 
-I very much prefer system architecture and backend development, but can handle the full stack if needed, including advanced DevOps such as CI/CD, cloud provider setup and configuration as well as complex networking.  
+I very much prefer system architecture and backend development, but can handle the full stack if needed, including advanced DevOps such as CI/CD, cloud provider setup and configuration as well as complex networking. 
 
 Based in Zurich 🇨🇭 and working via a B2B setup, fully remote only; please take note of this aspect if you're reaching out with an opportunity.
 
