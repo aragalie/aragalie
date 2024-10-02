@@ -21,15 +21,15 @@ Extensive experience in developing scalable backend architectures on both GCP an
 
 Backend-wise I've built codebases at scale with Node.js (Typescript) and Rust 🦀 in web2 as well as web3 (previous startup). 
 
-On the frontend I have experience with React (Typescript) as well as Vue and pure HTML+CSS.
+On the frontend I have proven experience with React (Typescript) as well as Vue and pure HTML+CSS.
 
 I've also done in the past Data Science and ML/AI using Python, JupyterNB, PyTorch and Tensorflow; used, configured and managed both on-premise GPU setups, as well as cloud-based infra and big data storage tooling like BigQuery. 
 
 I very much prefer system architecture and backend development, but can handle the full stack if needed, including advanced DevOps such as CI/CD, cloud provider setup and configuration as well as complex networking. 
 
-Based in Zurich 🇨🇭 and working via a B2B setup, fully remote only; I'm also working only on a "per hour" basis, and not interested in full time roles. Please take note of these aspects if you're reaching out with an opportunity.
+Based in Zurich 🇨🇭 and working fully remote only; I'm also open to collaborating only on a "per hour" basis, and not interested in full time or co-founder roles. Please take note of these aspects if you're reaching out with an opportunity.
 
-You can reach me via email [at this address](mailto:alex.ragalie@gmail.com).
+You can get in touch with me via email [at this address](mailto:alex.ragalie@gmail.com).
 
 ----
 Programming languages I'm very comfortable working with: 
