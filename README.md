@@ -32,12 +32,10 @@ Based in Zurich 🇨🇭 and working fully remote only; I'm also open to collabo
 You can get in touch with me via email [at this address](mailto:alex.ragalie@gmail.com).
 
 ----
-Programming languages I'm very comfortable working with: 
+Programming languages and frameworks I'm very comfortable working with: 
 - Rust 🦀
-- Python 🐍
 - TypeScript, JavaScript
-
-Currently exploring [Odin](https://odin-lang.org) and [Zig](https://ziglang.org).
+- NextJs, React
 
 ----
 Personal blog and book reviews: https://aragalie.com
