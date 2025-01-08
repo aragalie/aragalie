@@ -27,9 +27,7 @@ I've also done in the past Data Science and ML/AI using Python, JupyterNB, PyTor
 
 I very much prefer system architecture and backend development, but can handle the full stack if needed, including advanced DevOps such as CI/CD, cloud provider setup and configuration as well as complex networking. 
 
-Based in Zurich 🇨🇭 and working fully remote only; I'm also open to collaborating only on a "per hour" basis, and not interested in full time or co-founder roles. Please take note of these aspects if you're reaching out with an opportunity.
-
-You can get in touch with me via email [at this address](mailto:alex.ragalie@gmail.com).
+Based in Zurich 🇨🇭 and working fully remote only, you can get in touch with me via email [at this address](mailto:alex.ragalie@gmail.com).
 
 ----
 Programming languages and frameworks I'm very comfortable working with: 
